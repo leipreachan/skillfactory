@@ -1,5 +1,5 @@
 package ru.skillfactory.qa.java;
-
+// это наш новый тест
 public class BasicTest {
   public static void bar()
   {
@@ -8,12 +8,10 @@ public class BasicTest {
   
     public static void foo(String[] args)
     {
-      System.out.println("foo!");
       // обработать данные
   }
 
   public static void main(String[] args) {
-    bar();
     foo(args);
   }
 }
