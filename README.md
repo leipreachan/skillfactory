@@ -1,3 +1,3 @@
-# skillfactory
+# skillfactory - уроки по работе с GIT
 
 наш новый репозиторий
