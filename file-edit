@@ -1,0 +1,9 @@
+{   
+gender: "male"
+name: "добавьте имя",
+age: возраст в годах,
+city: "город",
+country: "Russia",
+postcode: ""
+}
+
