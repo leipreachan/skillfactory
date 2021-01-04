@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+{   
+	gender: "male"
+	name: "добавьте имя",
+	age: возраст в годах,
+	city: "город",
+	country: "Russia",
+	postcode: ""
+	}
+
+=======
+{   gender: "female",
+	name: "Maria", 
+	age: 31, 
+	city: "Vladivostok",
+	country: "Russia",
+	postcode: ""
+
+
+
+}
+>>>>>>> conflict-edit

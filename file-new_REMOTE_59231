@@ -1,8 +1,10 @@
-{   	
-	gender: "female",
+{   gender: "female",
 	name: "Maria", 
 	age: 31, 
 	city: "Vladivostok",
 	country: "Russia",
 	postcode: ""
+
+
+
 }
